@@ -1,0 +1,60 @@
+.inputBlock {
+  width: 67%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 70px;
+  padding: 50px;
+  text-align: center;
+  background-color: #43506c;
+  border-radius: 15px;
+}
+
+.inputBlock > button {
+  padding: 15px;
+  outline: none;
+  border-radius: 10px;
+  border: none;
+}
+
+.title {
+  font-size: 50px;
+  color: white;
+}
+
+.inputBlock>input[type='text'] {
+  margin-bottom: 30px;
+  margin-top: 30px;
+  width: 100%;
+  padding: 16px;
+  font-size: 20px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
+
+.listBlock {
+  width: 70%;
+  margin: 0 auto;
+  padding: 15px 0px;
+  font-size: 25px;
+  opacity: 1;
+}
+
+.listBlock>ul {
+  list-style-type: none;
+}
+
+.optionBlock {
+  padding-top: 15px;
+  width: 95%;
+  margin-left: 2%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Btn {
+  padding: 15px;
+  outline: none;
+  border-radius: 10px;
+  border: none;
+}
